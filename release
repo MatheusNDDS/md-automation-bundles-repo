@@ -2,6 +2,7 @@
 albert
 bnd-example
 dtk
+fn12c
 gnome-shell
 gpu-cfg
 i3-shell
@@ -20,4 +21,3 @@ thin
 wayland
 xfce4-shell
 xorg
-fn12c
