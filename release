@@ -1,6 +1,6 @@
 
-albert
 bnd-example
+classicube
 dtk
 fn12c
 gnome-shell
@@ -22,3 +22,4 @@ thin
 wayland
 xfce4-shell
 xorg
+-3-shell
