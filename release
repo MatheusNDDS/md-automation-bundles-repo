@@ -10,6 +10,7 @@ i3-shell
 i3status
 lxde-shell
 lxpk
+md-env
 n-os
 n-utils
 pi-os
@@ -22,4 +23,3 @@ thin
 wayland
 xfce4-shell
 xorg
--3-shell
