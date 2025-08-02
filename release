@@ -4,7 +4,6 @@ classicube
 fn12c
 gnome-shell
 gpu-cfg
-grml
 i3-shell
 i3status
 lxde-shell
@@ -15,7 +14,6 @@ n-utils
 pi-os
 plasma-shell
 p-os
-samba
 sway-shell
 sws
 thin
