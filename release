@@ -1,6 +1,7 @@
 
 bnd-example
 classicube
+debian-upgrade
 fn12c
 gnome-shell
 gpu-cfg
@@ -10,12 +11,15 @@ lxde-shell
 lxpk
 md-env
 n-os
+n-runner
 n-utils
 pi-os
 plasma-shell
+pop-shell
 p-os
 sway-shell
 sws
+t
 thin
 tp-patch
 wayland
