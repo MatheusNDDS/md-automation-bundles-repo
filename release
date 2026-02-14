@@ -20,7 +20,6 @@ pop-shell
 p-os
 sway-shell
 sws
-t
 thin
 tp-patch
 wayland
