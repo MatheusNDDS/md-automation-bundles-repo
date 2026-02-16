@@ -6,6 +6,7 @@ debian-upgrade
 fn12c
 gnome-shell
 gpu-cfg
+hytale
 i3-shell
 i3status
 lxde-shell
